@@ -1,0 +1,9 @@
+DNA Sequencer for 5. Coding Contest 2013 <powered by coding-contest.de>
+
+Category: Java, Ruby, C# - DNA Sequencing
+
+
+Implementation by Christoph Schmidl <christoph.schmidl@gmx.net>
+
+
+To run the program, browse to the "dist"-directory by using the terminal/console and type "java -jar DNASequencing.jar"
