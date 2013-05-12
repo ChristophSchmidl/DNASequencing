@@ -1,0 +1,26 @@
+DNA Sequencer
+
+A simple program which reads in a file which contains a dna-sequence of the following character:
+
+'a' - adenine
+'g' - guanine
+'c' - cytosine
+'t' - thymine
+
+The program enables the user the search for certain patterns by using regular expressions. A short analysis of the following diseases and features is also possible and can be easily extended by writing new 'queries':
+
+- Nucleobases
+- Complementary sequence
+- Brown eyes
+- Tyberius Syndrome
+- Fromingen's Dischrypsia
+
+Copyright (C) 2013  Christoph Schmidl
+Radboud University Nijmegen
+Email: christoph.schmidl@gmx.net, c.schmidl@student.ru.nl
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty ofMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
